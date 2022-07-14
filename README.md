@@ -11,9 +11,7 @@ A simple weather app created as a university project using Java (Android Develop
 
 ## Demo
 
-You can download the Android app from [here](https://linktodocumentation)
-
-Open the link and press download to download the apk file.
+You can download the Android app from [here](https://github.com/Zerapium/Weather-App/raw/main/mayurcodes.weatherapp.apk)
 
 
 ## Cloning the Project
