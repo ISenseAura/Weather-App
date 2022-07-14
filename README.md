@@ -13,6 +13,8 @@ A simple weather app created as a university project using Java (Android Develop
 
 You can download the Android app from [here](https://linktodocumentation)
 
+Open the link and press download to download the apk file.
+
 
 ## Cloning the Project
 
